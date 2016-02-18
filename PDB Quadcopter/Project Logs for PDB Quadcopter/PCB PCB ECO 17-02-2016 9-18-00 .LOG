@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=VBATT Pin=ESC1-0
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Removed Pin From Net: NetName=GND Pin=ESC1-1
+Change Component Footprint: Designator=ESC1 Old Footprint=Banana 3.5mm PowerPad New Footprint=HDR1X2
+Added Pin To Net: NetName=VBATT Pin=ESC1-1
+Added Pin To Net: NetName=GND Pin=ESC1-2
+Added Room: Name=PCB Schematic

@@ -1,0 +1,16 @@
+Added Component: Designator=ESC1(Banana 3.5mm PowerPad)
+Added Component: Designator=ESC2(Banana 3.5mm PowerPad)
+Added Component: Designator=ESC3(Banana 3.5mm PowerPad)
+Added Component: Designator=ESC4(Banana 3.5mm PowerPad)
+Added Pin To Net: NetName=VBATT Pin=ESC1-1
+Added Pin To Net: NetName=GND Pin=ESC1-2
+Added Pin To Net: NetName=VBATT Pin=ESC2-1
+Added Pin To Net: NetName=GND Pin=ESC2-2
+Added Pin To Net: NetName=VBATT Pin=ESC3-1
+Added Pin To Net: NetName=GND Pin=ESC3-2
+Added Pin To Net: NetName=VBATT Pin=ESC4-1
+Added Pin To Net: NetName=GND Pin=ESC4-2
+Added Member To Class: ClassName=PCB Schematic Member=Component ESC1 Header 2
+Added Member To Class: ClassName=PCB Schematic Member=Component ESC2 Header 2
+Added Member To Class: ClassName=PCB Schematic Member=Component ESC3 Header 2
+Added Member To Class: ClassName=PCB Schematic Member=Component ESC4 Header 2

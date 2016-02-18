@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VBATT Pin=BatEnable-1
+Removed Pin From Net: NetName=VBATT Pin=Batt-1
+Removed Pin From Net: NetName=GND Pin=Batt-2
+Removed Member From Class: ClassName=PCB Schematic Member=BatEnable
+Removed Member From Class: ClassName=PCB Schematic Member=Batt
+Added Component: Designator=AUX1(HDR1X2)
+Added Component: Designator=AUX2(HDR1X2)
+Added Pin To Net: NetName=VBATT Pin=AUX1-1
+Added Pin To Net: NetName=GND Pin=AUX1-2
+Added Pin To Net: NetName=VBATT Pin=AUX2-1
+Added Pin To Net: NetName=GND Pin=AUX2-2
+Added Pin To Net: NetName=VBATT Pin=LED_Batt-1
+Added Member To Class: ClassName=PCB Schematic Member=Component AUX1 Header 2
+Added Member To Class: ClassName=PCB Schematic Member=Component AUX2 Header 2
+Added Room: Name=PCB Schematic
